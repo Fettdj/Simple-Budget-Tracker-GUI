@@ -20,7 +20,7 @@ Este repositorio contiene un código en Python para un sencillo rastreador de pr
 ## Instalación
 
 1. Clone este repositorio en su computadora local:
-git clone https://github.com/your_username/Simple-Budget-Tracker-GUI.git
+git clone https://github.com/Fettdj/Simple-Budget-Tracker-GUI.git
 
 
 2. Navegue hasta el directorio del repositorio clonado e instale las dependencias necesarias:
